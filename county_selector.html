@@ -403,10 +403,9 @@ function update_page(id){
     if (newArray[0].valid == "Yes"){ 
       var html_url = newArray[0].html_url;
       var pdf_url = newArray[0].pdf_url;
-      var textnode = document.createTextNode("An alternative pdf version is also available.");
-      
+
       var html_a = document.createElement('a');
-      html_a.innerHTML = "Click here to access your report.";
+      html_a.innerHTML = "Click here to access the report.";
       html_a.href = html_url;
       html_a.target="_blank";
       
@@ -418,8 +417,6 @@ function update_page(id){
 
       document.getElementById("selectionresults").appendChild(document.createElement("br"));
       document.getElementById("selectionresults").appendChild(html_a);
-      document.getElementById("selectionresults").appendChild(document.createElement("br"));
-      document.getElementById("selectionresults").appendChild(textnode);
       document.getElementById("selectionresults").appendChild(document.createElement("br"));
       document.getElementById("selectionresults").appendChild(pdf_a);
 
