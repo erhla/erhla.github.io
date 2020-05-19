@@ -4,17 +4,14 @@ layout: default
 filename: resume
 ---
 
-
 # Education
 ### MS in Computational Analysis & Public Policy, June 2020
-University of Chicago, Harris School of Public Policy (Chicago, IL)
-
-Coursework: Causal Inference Statistics, Python (pandas, selenium), SQL, R (tidyverse, ggplot), HTML/CSS/Javascript/D3
+- University of Chicago, Harris School of Public Policy (Chicago, IL)
+- Coursework: Causal Inference Statistics, Python (pandas, selenium), SQL, R (tidyverse, ggplot), HTML/CSS/Javascript/D3
 
 ### BS in Mathematics, May 2018
-Minors: Law and Public Policy, Joint Political Science and Economics, Liberal Arts Management/Business, Physics
-
-Indiana University (Bloomington, IN)
+- Minors: Law and Public Policy, Joint Political Science and Economics, Liberal Arts Management/Business, Physics
+- Indiana University (Bloomington, IN)
 
 ### Student Leader of the Year, Indiana University (2017)
 Citation: an individual whose vision, vitality and diligence has made significant contributions to the community

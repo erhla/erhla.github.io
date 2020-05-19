@@ -6,7 +6,7 @@ filename: index
 
 # Hello!
 
-Welcome to my site. Here you can find information on my *recent work*, a *resume*, and a *portfolio*.
+Welcome to my site. Here you can find information on my *recent work*, a [resume](resume.html), and a *portfolio*.
 
 ## About me
 
