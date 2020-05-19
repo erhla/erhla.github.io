@@ -56,3 +56,4 @@ Nikkei South Side: Japanese and Japanese Americans in Hyde Park and its Vicinity
 
 1st Vice Governor, Midwest District, Japanese American Citizens League: Chicago, IL (August 2016 to present)
 
+## [Return](index.html)
