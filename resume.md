@@ -15,6 +15,8 @@ filename: resume
 ### Student Leader of the Year, Indiana University (2017)
 Citation: an individual whose vision, vitality and diligence has made significant contributions to the community
 
+***
+
 # Professional Experience
 ### Data Scientist, Center for Municipal Finance, University of Chicago (May 2019 to present)
 - Built a reproducible end-to-end data pipeline to produce standardized and automated reports using RMarkdown
@@ -41,6 +43,8 @@ Citation: an individual whose vision, vitality and diligence has made significan
 ### Research Assistant, Research Team, Metropolitan Planning Council: Chicago, IL (January 2019 to April 2019)
 - Used administrative data to craft stories focused on racial equity around immigration and land use in Chicago
 - Crafted narratives which highlighted the vitality and strength of all of Chicago’s communities
+
+***
 
 # Community Work & Publications
 An Evaluation of Residential Property Tax Assessments in the City of Detroit, 2016-2018, Center for Municipal Finance, Harris School of Public Policy (February 2020)
