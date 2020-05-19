@@ -6,11 +6,11 @@ filename: portfolio
 # Data Science
 
 - [An example webpage from a series of 3000 webpages analyzing property taxes nationwide](https://s3.us-east-2.amazonaws.com/propertytaxdata.uchicago.edu/nationwide_reports/web/Hennepin%20County_Minnesota.html) using geospatial and statistical techniques in R
+- [An R package for property tax analysis](/cmfproperty)
+- [A nationwide analysis of 40M property sales](example_nationwide.html) using interactive maps (mapbox) and menus (Select2) 
 - [An analysis of the University of Chicago Police Department](UCPD.html) using interviews, web scraping (Selenium, python), and data visualizations (R, ggplot/R Markdown)
 - [Data visualizations of traffic in Chicago using open data](/Chicago-Congestion) made with python (altair)
 - [Professional work with the Cook County Assessor's Office Data Science team](https://gitlab.com/users/erhlango/activity)
-- [An R package for property tax analysis](/cmfproperty)
-- [A nationwide analysis of 40M property sales](example_nationwide.html)
 - [A report on regressive property taxes in Detroit](https://harris.uchicago.edu/files/evalrespropertytaxasdetroit20162018.pdf)
 
 # Selected Talks
