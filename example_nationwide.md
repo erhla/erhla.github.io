@@ -2,7 +2,7 @@
 title: Example Work
 filename: example_nationwide
 ---
-<body width="100% !important">
+<body>
 
 <h1>A Nationwide Study of Property Assessments</h1>
 <p>In order to compare the performance of one community against any other, the Center has utilized a single commercially-available data set, provided by <a href="http://corelogic.com">CoreLogic</a>. CoreLogic is a commercial firm which collects local data records from both public and private entities to provide a uniform picture into the market values, assessed values, and a range of descriptive information for more than 99% of all residential properties in America... <em>almost 40 million sales in total</em>. For an evaluation of assessments nationwide, <a href="https://s3.us-east-2.amazonaws.com/propertytaxdata.uchicago.edu/core_logic_nationwide.html" target="_blank" rel="noopener noreferrer">click here</a> to review our Nationwide Report.</p>
@@ -13,7 +13,7 @@ filename: example_nationwide
 
 <p>Click on a state or zoom in to see county level detail. Click on individual counties to access county reports.</p>
 
-<div><iframe src="https://cmf-uchicago.github.io/property-analysis-web/map/" width="100%" height="800px"></iframe></div>
+<div><iframe src="https://cmf-uchicago.github.io/property-analysis-web/map/" width="100%" height="500px"></iframe></div>
 
 <p>Note that for some counties (shaded black or clear above) sales were either unavailable or too infrequent for analysis.</p>
 
