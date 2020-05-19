@@ -1,7 +1,7 @@
 ---
 title: Resume
 layout: default
-filename: index
+filename: resume
 ---
 
 
