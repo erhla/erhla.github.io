@@ -4,6 +4,21 @@ layout: default
 filename: index
 ---
 
+# Hello!
+
+Welcome to my site. Here you can find information on my *recent work*, a *resume*, and a *portfolio*.
+
+## About me
+
+Gov Tech, Data Science, Published Historian, Researcher, Policymaker. I work to tell stories that make a difference and use data science to bring positive change to government. I received a MS in Computational Analysis & Public Policy from the University of Chicago in 2020.
+
+## Long Bio
+
+
+
+
+
+
 # Various links
 
 <li><a href="https://erhla.github.io/UCPD">Information on the University of Chicago Police Department</a></li>
