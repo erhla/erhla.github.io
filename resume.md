@@ -7,9 +7,9 @@ filename: resume
 </head>
 
 <ul class="navbar"> 
-    <li><a href="/index.html">Home</a></li>
-    <li><a href="/resume.html">Resume</a></li>
-    <li><a href="/portfolio.html">Portfolio</a></li>
+    <li class="navbar"><a class="navbar" href="/index.html">Home</a></li>
+    <li class="navbar"><a class="navbar" href="/resume.html">Resume</a></li>
+    <li class="navbar"><a class="navbar" ref="/portfolio.html">Portfolio</a></li>
 </ul>
 
 # Education
