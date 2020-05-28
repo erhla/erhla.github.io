@@ -6,7 +6,7 @@ filename: resume
     <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 
-<ul> 
+<ul class="navbar"> 
     <li><a href="/index.html">Home</a></li>
     <li><a href="/resume.html">Resume</a></li>
     <li><a href="/portfolio.html">Portfolio</a></li>
