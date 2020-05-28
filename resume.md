@@ -2,11 +2,15 @@
 title: Resume
 filename: resume
 ---
-<div class="navbar" id="page-top"> 
+<head>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
+
+<ul> 
     <li><a href="/index.html">Home</a></li>
     <li><a href="/resume.html">Resume</a></li>
     <li><a href="/portfolio.html">Portfolio</a></li>
-</div>
+</ul>
 
 # Education
 ### MS in Computational Analysis & Public Policy, June 2020
