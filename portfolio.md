@@ -2,7 +2,11 @@
 title: Portfolio
 filename: portfolio
 ---
-
+<div class="navbar" id="page-top"> 
+    <li><a href="/index.html">Home</a></li>
+    <li><a href="/resume.html">Resume</a></li>
+    <li><a href="/portfolio.html">Portfolio</a></li>
+</div>
 
 # Data Science
 
