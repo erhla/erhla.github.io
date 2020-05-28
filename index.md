@@ -2,12 +2,15 @@
 title: Welcome
 filename: index
 ---
+<head>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+</head>
 
-<div class="navbar" id="page-top"> 
+<ul> 
     <li><a href="/index.html">Home</a></li>
     <li><a href="/resume.html">Resume</a></li>
     <li><a href="/portfolio.html">Portfolio</a></li>
-</div>
+</ul>
 
 
 # Hello!
