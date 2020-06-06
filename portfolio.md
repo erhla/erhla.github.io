@@ -28,6 +28,7 @@ Here are examples of how I convert data into stories in both academic and profes
 - [An analysis of the University of Chicago Police Department](/UCPD) using interviews, web scraping (Selenium, python), and data visualizations (R, ggplot/R Markdown)
 - [Data visualizations of traffic in Chicago using open data](/Chicago-Congestion) made with python (altair)
 - [A report on regressive property taxes in Detroit](https://harris.uchicago.edu/files/evalrespropertytaxasdetroit20162018.pdf)
+- [An analysis of population and race/ethnicity by Chicago Ward](https://erhla.github.io/chicago-population-ward/Estimates.html)
 
 # Selected Talks
 
