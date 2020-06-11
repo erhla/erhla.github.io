@@ -44,7 +44,7 @@ Here are examples of how I convert data into stories in both academic and profes
 # Press
 
 Various clips from my work researching property taxes and the Midwestern Japanese American community.
-
+- [The Scandal of the Predatory City](https://www.nytimes.com/2020/06/11/opinion/coronavirus-cities-property-taxes.html?action=click&module=Opinion&pgtype=Homepage), *New York Times*
 - [Opinion: Detroit's property tax methodology continues to harm its poorest residents](https://www.detroitnews.com/story/opinion/2020/03/11/opinion-detroits-property-tax-methodology-continues-harm-its-poorest-residents/4976195002/), *Detroit News*
 - [You Gave the Enemy a Face—and That Face Was Mine](https://catapult.co/stories/you-gave-the-enemy-a-faceand-that-face-was-mine-racism-and-fearmongering-in-the-time-of-covid19-jami-nakamura-lin), *catapult*
 - [What one family's story reveals about reparations](https://www.washingtonpost.com/graphics/2020/business/reparations-slavery-japanese-american-internment/), *Washington Post*
