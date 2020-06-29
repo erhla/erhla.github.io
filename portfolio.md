@@ -19,16 +19,17 @@ This section features my work as a Data Scientist with the Center for Municipal 
 - [An example webpage from a series of 3000 webpages analyzing property taxes nationwide](https://s3.us-east-2.amazonaws.com/propertytaxdata.uchicago.edu/nationwide_reports/web/Hennepin%20County_Minnesota.html) using geospatial and statistical techniques in R
 - [An R package for property tax analysis](/cmfproperty)
 - [A nationwide analysis of 40M property sales](example_nationwide.html) using interactive maps (mapbox) and menus (Select2) 
+- [Professional work with the Cook County Assessor's Office Data Science team](https://gitlab.com/users/erhlango/activity)
 
 # Data Storytelling
 
 Here are examples of how I convert data into stories in both academic and professional settings.
 
-- [Professional work with the Cook County Assessor's Office Data Science team](https://gitlab.com/users/erhlango/activity)
 - [An analysis of the University of Chicago Police Department](/UCPD) using interviews, web scraping (Selenium, python), and data visualizations (R, ggplot/R Markdown)
 - [Data visualizations of traffic in Chicago using open data](/Chicago-Congestion) made with python (altair)
 - [A report on regressive property taxes in Detroit](https://harris.uchicago.edu/files/evalrespropertytaxasdetroit20162018.pdf)
 - [An analysis of population and race/ethnicity by Chicago Ward](https://erhla.github.io/chicago-population-ward/Estimates.html)
+- [A tableau dashboard](https://public.tableau.com/profile/eric.langowski#!/vizhome/dashboard_15800765006860/Dashboard1) which analyzes Chicago Transit Authority Open Data
 
 # Selected Talks
 
@@ -54,7 +55,4 @@ Various clips from my work researching property taxes and the Midwestern Japanes
 - [OPINION: IU must accept demands of petition and recognize anti-Japanese racism](https://www.idsnews.com/article/2020/02/opinion-iu-must-accept-demands-of-petition-and-recognize-anti-japanese-racism), *Indiana Daily Student*
 - [Hearabouts: Asian American Midwest Radio – Back to School](https://wfhb.org/public-affairs/hearabouts/hearabouts-asian-american-midwest-radio-back-to-school/), *WFHB*
 - [Hearabouts: Asian American Midwest Radio – Citizenship/Identity](https://wfhb.org/public-affairs/hearabouts-asian-american-midwest-radio-citizenship-identity/), *WFHB*
-
-
-## [Return](index.html)
 

@@ -21,18 +21,24 @@ filename: resume
 - Minors: Law and Public Policy, Joint Political Science and Economics, Liberal Arts Management/Business, Physics
 - Indiana University (Bloomington, IN)
 
-### Student Leader of the Year, Indiana University (2017)
-Citation: an individual whose vision, vitality and diligence has made significant contributions to the community
+***
+# Skills
+- Data Science: R (tidyverse, data.table), python (pandas, selenium), SQL
+- Data Visualization: R (ggplot2, leaflet, R Markdown), JavaScript (Mapbox, d3)
 
 ***
 
 # Professional Experience
 ### Data Scientist, Center for Municipal Finance, University of Chicago (May 2019 to present)
-- Built a reproducible end-to-end data pipeline to produce standardized and automated reports using RMarkdown
-- Conducted analysis and supported reporters writing public interest stories on inaccurate property tax systems
-- Standardized a large (~10TB) nationwide geospatial dataset to produce localized analysis for every county
+- Built a packaged data pipeline to produce standardized and automated reports using RMarkdown
+- Presented detailed reports and visualizations to elected officials and reporters to improve property assessment
+- Standardized a large (~10TB) nationwide geospatial dataset into 3,000 localized reports accessible online
 - Released an open source R package for property tax data analysis
-- At the request of elected officials, produced reports and visualizations district-by-district of regressivity
+- Created interactive online dashboards using R Markdown, leaflet, java/d3, and mapbox 
+
+### Consultant, Property Tax Appeal Project, Illinois Institute of Technology (June 2020 to present)
+- Built tools which automatically filed property assessment appeals for low-income homeowners in Detroit and Chicago
+- Using R, R Shiny, and python (selenium), deployed standardized tools for use by dozens of volunteers
 
 ### Grants Management Intern, Office of Budget and Management, City of Chicago (July 2019 to present)
 - Conducted city-wide budgetary analyses of new policies including raising the City’s minimum wage to $15 an hour
@@ -56,6 +62,9 @@ Citation: an individual whose vision, vitality and diligence has made significan
 ***
 
 # Community Work & Publications
+### Student Leader of the Year, Indiana University (2017)
+Citation: an individual whose vision, vitality and diligence has made significant contributions to the community
+
 An Evaluation of Residential Property Tax Assessments in the City of Detroit, 2016-2018, Center for Municipal Finance, Harris School of Public Policy (February 2020)
 
 “Education Denied: Indiana University's Japanese American Ban, 1942 to 1945,” Indiana Magazine of History: Bloomington, IN (June 2019)
@@ -65,4 +74,4 @@ Nikkei South Side: Japanese and Japanese Americans in Hyde Park and its Vicinity
 
 1st Vice Governor, Midwest District, Japanese American Citizens League: Chicago, IL (August 2016 to present)
 
-## [Return](index.html)
+
