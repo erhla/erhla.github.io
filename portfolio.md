@@ -30,6 +30,7 @@ Here are examples of how I convert data into stories in both academic and profes
 - [A report on regressive property taxes in Detroit](https://harris.uchicago.edu/files/evalrespropertytaxasdetroit20162018.pdf)
 - [An analysis of population and race/ethnicity by Chicago Ward](https://erhla.github.io/chicago-population-ward/Estimates.html)
 - [A tableau dashboard](https://public.tableau.com/profile/eric.langowski#!/vizhome/dashboard_15800765006860/Dashboard1) which analyzes Chicago Transit Authority Open Data
+- [A nationwide analysis of property taxes & assessments](https://propertytaxproject.uchicago.edu/)
 
 # Selected Talks
 
