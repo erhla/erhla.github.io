@@ -4,6 +4,15 @@ filename: portfolio
 ---
 <head>
     <link rel="stylesheet" type="text/css" href="css/style.css">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178459008-1"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-178459008-1');
+    </script>
 </head>
 
 <ul class="navbar"> 
@@ -14,7 +23,7 @@ filename: portfolio
 
 # Data Science
 
-This section features my work as a Data Scientist with the Center for Municipal Finance where I built sustainable tools, wrangled data, and interactive websites for public use.
+This section features my work as a Data Scientist with the Center for Municipal Finance where I built sustainable tools, wrangled data, and created interactive websites for public use.
 
 - [An example webpage from a series of 3000 webpages analyzing property taxes nationwide](https://s3.us-east-2.amazonaws.com/propertytaxdata.uchicago.edu/nationwide_reports/web/Hennepin%20County_Minnesota.html) using geospatial and statistical techniques in R
 - [An R package for property tax analysis](/cmfproperty)
@@ -46,6 +55,8 @@ Here are examples of how I convert data into stories in both academic and profes
 # Press
 
 Various clips from my work researching property taxes and the Midwestern Japanese American community.
+
+- [Indiana University Issues Apology for Japanese American ban](https://president.iu.edu/speeches/statements/2020/07-22-response-to-wwii-japanese-american-student-ban.html)
 - [The Scandal of the Predatory City](https://www.nytimes.com/2020/06/11/opinion/coronavirus-cities-property-taxes.html?action=click&module=Opinion&pgtype=Homepage), *New York Times*
 - [Opinion: Detroit's property tax methodology continues to harm its poorest residents](https://www.detroitnews.com/story/opinion/2020/03/11/opinion-detroits-property-tax-methodology-continues-harm-its-poorest-residents/4976195002/), *Detroit News*
 - [You Gave the Enemy a Face—and That Face Was Mine](https://catapult.co/stories/you-gave-the-enemy-a-faceand-that-face-was-mine-racism-and-fearmongering-in-the-time-of-covid19-jami-nakamura-lin), *catapult*
