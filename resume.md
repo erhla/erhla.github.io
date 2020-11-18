@@ -10,7 +10,6 @@ filename: resume
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'UA-178459008-1');
     </script>
 
@@ -39,7 +38,13 @@ filename: resume
 ***
 
 # Professional Experience
-### Data Scientist, Center for Municipal Finance, University of Chicago (May 2019 to present)
+
+### Data Analyst, Illinois Department of Central Management Services (November 2020 to present)
+
+### Data Analysis Specialist, Federal Emergency Management Agency (August 2020 to November 2020)
+-	Used R and python to build pipelines and automated reports on pandemic hotspots and vaccination distributions
+
+### Data Scientist, Center for Municipal Finance, University of Chicago (May 2019 to September 2020)
 - Built a packaged data pipeline to produce standardized and automated reports using RMarkdown
 - Presented detailed reports and visualizations to elected officials and reporters to improve property assessment
 - Standardized a large (~10TB) nationwide geospatial dataset into 3,000 localized reports accessible online
@@ -47,8 +52,8 @@ filename: resume
 - Created interactive online dashboards using R Markdown, leaflet, java/d3, and mapbox 
 
 ### Consultant, Property Tax Appeal Project, Illinois Institute of Technology (June 2020 to present)
-- Built tools which automatically filed property assessment appeals for low-income homeowners in Detroit and Chicago
-- Using R, R Shiny, and python (selenium), deployed standardized tools for use by dozens of volunteers
+-	Built tools which automatically filed property assessment appeals for low-income homeowners in Detroit and Chicago
+- Using R, react, and python (flask/selenium), deployed a ‘turbo tax for property appeals’ for public use 
 
 ### Grants Management Intern, Office of Budget and Management, City of Chicago (July 2019 to present)
 - Conducted city-wide budgetary analyses of new policies including raising the City’s minimum wage to $15 an hour
