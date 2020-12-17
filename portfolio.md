@@ -48,7 +48,7 @@ Here are examples of how I convert data into stories in both academic and profes
 
 - Trainer @ [hacking4justice](https://hacking4justice.org/team)
 - Teaching Fellow (R Programming), Data and Policy Summer Scholar Program, University of Chicago, Summer 2019
-- Teaching Assistant, PPHA 30531: Data Skills for Public Policy, University of Chicago Fall 2019
+- Teaching Assistant, PPHA 30531: Data Skills for Public Policy, University of Chicago, Fall 2019
 
 # Selected Talks
 
