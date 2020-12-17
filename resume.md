@@ -53,7 +53,7 @@ filename: resume
 
 ### Consultant, Property Tax Appeal Project, Illinois Institute of Technology (June 2020 to present)
 -	Built tools which automatically filed property assessment appeals for low-income homeowners in Detroit and Chicago
-- Using R, react, and python (flask/selenium), deployed a ‘turbo tax for property appeals’ for public use 
+- Using R, react, and python (flask/sqlite3), deployed a ‘turbo tax for property appeals’ for public use 
 
 ### Grants Management Intern, Office of Budget and Management, City of Chicago (July 2019 to present)
 - Conducted city-wide budgetary analyses of new policies including raising the City’s minimum wage to $15 an hour
