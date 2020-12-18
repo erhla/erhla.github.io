@@ -42,7 +42,7 @@ Here are examples of how I convert data into stories in both academic and profes
 
 # Civic Technology
 
-- [A tool to automatically file property tax appeals for low-income homeowners in Detroit and Chicago](https://github.com/erhla/ptap)
+- [A tool to automatically file property tax appeals for low-income homeowners in Detroit and Chicago](https://github.com/erhla/ptap) (python/flask, reactjs, AWS)
 
 # Selected Teaching
 
