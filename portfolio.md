@@ -3,7 +3,6 @@ title: Portfolio
 filename: portfolio
 ---
 <head>
-    <link rel="stylesheet" type="text/css" href="css/style.css">
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-178459008-1"></script>
     <script>
@@ -13,13 +12,6 @@ filename: portfolio
     gtag('config', 'UA-178459008-1');
     </script>
 </head>
-
-<ul class="navbar"> 
-    <li class="navbar"><a class="navbar" href="/portfolio.html">Portfolio</a></li>
-    <li class="navbar"><a class="navbar" href="/resume.html">Resume</a></li>
-    <li class="navbar"><a class="navbar" href="/index.html">Home</a></li>
-</ul>
-
 # Data Science
 
 This section features my work as a Data Scientist with the Center for Municipal Finance where I built sustainable tools, wrangled data, and created interactive websites for public use.
