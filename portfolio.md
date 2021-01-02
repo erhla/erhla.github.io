@@ -12,10 +12,12 @@ filename: portfolio
     gtag('config', 'UA-178459008-1');
     </script>
 </head>
+
 # Data Science
 
 This section features my work as a Data Scientist with the Center for Municipal Finance where I built sustainable tools, wrangled data, and created interactive websites for public use.
 
+- [A tool to automatically file property tax appeals for low-income homeowners in Detroit and Chicago](https://github.com/erhla/ptap) (python/flask, reactjs, AWS)
 - [An example webpage from a series of 3000 webpages analyzing property taxes nationwide](https://s3.us-east-2.amazonaws.com/propertytaxdata.uchicago.edu/nationwide_reports/web/Hennepin%20County_Minnesota.html) using geospatial and statistical techniques in R
 - [An R package for property tax analysis](/cmfproperty)
 - [A nationwide analysis of 40M property sales](example_nationwide.html) using interactive maps (mapbox) and menus (Select2) 
@@ -32,32 +34,25 @@ Here are examples of how I convert data into stories in both academic and profes
 - [A tableau dashboard](https://public.tableau.com/profile/eric.langowski#!/vizhome/dashboard_15800765006860/Dashboard1) which analyzes Chicago Transit Authority Open Data
 - [A nationwide analysis of property taxes & assessments](https://propertytaxproject.uchicago.edu/)
 
-# Civic Technology
-
-- [A tool to automatically file property tax appeals for low-income homeowners in Detroit and Chicago](https://github.com/erhla/ptap) (python/flask, reactjs, AWS)
-
 # Selected Teaching
 
+- [PropeRty Taxes:
+ Transparency, Equity, AND R](https://chicago2020.satrdays.org/), satRday 2020
 - Trainer @ [hacking4justice](https://hacking4justice.org/team)
 - Teaching Fellow (R Programming), Data and Policy Summer Scholar Program, University of Chicago, Summer 2019
 - Teaching Assistant, PPHA 30531: Data Skills for Public Policy, University of Chicago, Fall 2019
 
-# Selected Talks
-
-- [PropeRty Taxes:
- Transparency, Equity, AND R](https://chicago2020.satrdays.org/), satRday 2020
-- ['Deemed Inadvisable': The University's Wartime Japanese American Ban](https://www.youtube.com/watch?v=12VL8BytcUM), Center for East Asian Studies, the University of Chicago
-
 # Public History
 
-- [Education Denied: Indiana University's Japanese American Ban](https://www.jstor.org/stable/10.2979/indimagahist.115.2.01), *Indiana Magazine of History* June 2019. *Winner of the Indiana Association of Historians James H. Madison Best Article Prize, 2020* 
 - [Nikkei South Side: Japanese and Japanese Americans in Hyde Park and its Vicinity](https://www.lib.uchicago.edu/scrc/exhibits/upcoming-exhibits/), Summer 2021 (researcher/curator)
+- [Indiana University Issues Apology for Japanese American ban](https://president.iu.edu/speeches/statements/2020/07-22-response-to-wwii-japanese-american-student-ban.html)
+- ['Deemed Inadvisable': The University's Wartime Japanese American Ban](https://www.youtube.com/watch?v=12VL8BytcUM), Center for East Asian Studies, the University of Chicago
+- [Education Denied: Indiana University's Japanese American Ban](https://www.jstor.org/stable/10.2979/indimagahist.115.2.01), *Indiana Magazine of History* June 2019. *Winner of the Indiana Association of Historians James H. Madison Best Article Prize, 2020* 
 
 # Press
 
 Various clips from my work researching property taxes and the Midwestern Japanese American community.
 
-- [Indiana University Issues Apology for Japanese American ban](https://president.iu.edu/speeches/statements/2020/07-22-response-to-wwii-japanese-american-student-ban.html)
 - [The Scandal of the Predatory City](https://www.nytimes.com/2020/06/11/opinion/coronavirus-cities-property-taxes.html?action=click&module=Opinion&pgtype=Homepage), *New York Times*
 - [Opinion: Detroit's property tax methodology continues to harm its poorest residents](https://www.detroitnews.com/story/opinion/2020/03/11/opinion-detroits-property-tax-methodology-continues-harm-its-poorest-residents/4976195002/), *Detroit News*
 - [You Gave the Enemy a Face—and That Face Was Mine](https://catapult.co/stories/you-gave-the-enemy-a-faceand-that-face-was-mine-racism-and-fearmongering-in-the-time-of-covid19-jami-nakamura-lin), *catapult*
@@ -68,4 +63,3 @@ Various clips from my work researching property taxes and the Midwestern Japanes
 - [OPINION: IU must accept demands of petition and recognize anti-Japanese racism](https://www.idsnews.com/article/2020/02/opinion-iu-must-accept-demands-of-petition-and-recognize-anti-japanese-racism), *Indiana Daily Student*
 - [Hearabouts: Asian American Midwest Radio – Back to School](https://wfhb.org/public-affairs/hearabouts/hearabouts-asian-american-midwest-radio-back-to-school/), *WFHB*
 - [Hearabouts: Asian American Midwest Radio – Citizenship/Identity](https://wfhb.org/public-affairs/hearabouts-asian-american-midwest-radio-citizenship-identity/), *WFHB*
-
