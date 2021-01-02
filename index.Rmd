@@ -28,9 +28,9 @@ output:
  
 ## About Me
 
-*Code is policy.* In government, the choices we make when building systems and analyzing data are policy choices. I work at the intersection of Data Science & Government telling stories which make a difference and bring positive change. I received a MS in Computational Analysis & Public Policy from the University of Chicago in 2020. I have worked at the city, county, state, and federal levels of government.
+*Code is policy.* In government, the choices we make when building systems and analyzing data are policy choices. I work at the intersection of Data Science & Government telling stories which make a difference and bring positive change. I have worked at the city, county, state, and federal levels of government.
 
-I am a [data](example_nationwide.html) [scientist](/cmfproperty), [award-winning historian](https://www.jstor.org/stable/10.2979/indimagahist.115.2.01), [policymaker](https://gitlab.com/users/erhlango/activity), and [educator](https://chicago2020.satrdays.org/). I currently work at the [Illinois Department of Central Management Services](https://www2.illinois.gov/cms/Pages/default.aspx) and on a [civic tech tool](https://app.propertytaxproject.com/detroit) to automatically file [property tax appeals for low-income homeowners](https://illegalforeclosures.org/).
+I am a [data](example_nationwide.html) [scientist](/cmfproperty), [award-winning historian](https://www.jstor.org/stable/10.2979/indimagahist.115.2.01), [policymaker](https://gitlab.com/users/erhlango/activity), and [educator](https://chicago2020.satrdays.org/). I currently work for the [State of Illinois](https://www2.illinois.gov/cms/Pages/default.aspx) and on a [civic tech tool](https://app.propertytaxproject.com/detroit) to automatically file [property tax appeals for low-income homeowners](https://illegalforeclosures.org/).
 
 Check out my [portfolio](portfolio.html)!
 
@@ -53,8 +53,4 @@ B.S. in Mathematics | August 2014 - May 2018
 **Federal Emergency Management Agency** | Data Analysis Specialist | August 2020 to November 2020
 
 **Center for Municipal Finance, University of Chicago** | Data Scientist | May 2019 to September 2020
-
-**Office of Budget and Management, City of Chicago** | Grants Management Intern | July 2019 to May 2020
-
-**Cook County Assessor’s Office** | Inaugural Data Science Intern | January 2019 to September 2019
 
