@@ -53,7 +53,8 @@ Here are examples of how I convert data into stories in both academic and profes
 
 Various clips from my work researching property taxes and the Midwestern Japanese American community.
 
-- [Racial Inequality: Broken Property-Tax System Blocks Black Wealth Building](https://www.bloomberg.com/news/features/2021-03-09/racial-inequality-broken-property-tax-system-blocks-black-wealth-building)
+-[Homes in poor neighborhoods are taxed at roughly twice the rate of those in rich areas, study shows](https://www.washingtonpost.com/business/2021/03/12/property-tax-regressive/), *Washington Post*
+- [Racial Inequality: Broken Property-Tax System Blocks Black Wealth Building](https://www.bloomberg.com/news/features/2021-03-09/racial-inequality-broken-property-tax-system-blocks-black-wealth-building), *Bloomberg News*
 - [The Scandal of the Predatory City](https://www.nytimes.com/2020/06/11/opinion/coronavirus-cities-property-taxes.html?action=click&module=Opinion&pgtype=Homepage), *New York Times*
 - [Opinion: Detroit's property tax methodology continues to harm its poorest residents](https://www.detroitnews.com/story/opinion/2020/03/11/opinion-detroits-property-tax-methodology-continues-harm-its-poorest-residents/4976195002/), *Detroit News*
 - [You Gave the Enemy a Face—and That Face Was Mine](https://catapult.co/stories/you-gave-the-enemy-a-faceand-that-face-was-mine-racism-and-fearmongering-in-the-time-of-covid19-jami-nakamura-lin), *catapult*
