@@ -28,7 +28,9 @@ output:
  
 ## About Me
 
-*Code is policy.* In government, the choices we make when building systems and analyzing data are policy choices. I work at the intersection of Data Science & Government telling stories which make a difference and bring positive change. I have worked at the city, county, state, and federal levels of government.
+*Code is policy.* In government, the choices we make when building systems and analyzing data are policy choices. I work at the intersection of Data Science & Government telling stories which make a difference and bring positive change. I have worked at the city, county, state, and federal levels of government. 
+
+My research has been featured in the [New York](https://www.nytimes.com/2021/04/03/opinion/sunday/property-taxes-housing-assessment-inequality.html) [Times](https://www.nytimes.com/2020/06/11/opinion/coronavirus-cities-property-taxes.html), [Washington Post](https://www.washingtonpost.com/business/2021/03/12/property-tax-regressive/), [Bloomberg News](https://www.bloomberg.com/news/features/2021-03-09/racial-inequality-broken-property-tax-system-blocks-black-wealth-building), and [other publications](portfolio.html).
 
 I am a [data](example_nationwide.html) [scientist](/cmfproperty), [award-winning historian](https://www.jstor.org/stable/10.2979/indimagahist.115.2.01), [policymaker](https://gitlab.com/users/erhlango/activity), and [educator](https://chicago2020.satrdays.org/). I currently work for the [State of Illinois](https://www2.illinois.gov/cms/Pages/default.aspx) and on a [civic tech tool](https://app.propertytaxproject.com/detroit) to automatically file [property tax appeals for low-income homeowners](https://illegalforeclosures.org/).
 
@@ -43,14 +45,3 @@ M.S. in Computational Analysis & Public Policy | September 2018 - June 2020
 **Indiana University** | Bloomington, IN
 
 B.S. in Mathematics | August 2014 - May 2018
-
-## Experience
-
-**Illinois Department of Central Management Services** | Data Analyst | November 2020 to present
-
-**Property Tax Appeal Project, Illinois Institute of Technology** | Consultant | June 2020 to present
-
-**Federal Emergency Management Agency** | Data Analysis Specialist | August 2020 to November 2020
-
-**Center for Municipal Finance, University of Chicago** | Data Scientist | May 2019 to September 2020
-
