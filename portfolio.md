@@ -34,8 +34,9 @@ Here are examples of how I convert data into stories in both academic and profes
 - [A tableau dashboard](https://public.tableau.com/profile/eric.langowski#!/vizhome/dashboard_15800765006860/Dashboard1) which analyzes Chicago Transit Authority Open Data
 - [A nationwide analysis of property taxes & assessments](https://propertytaxproject.uchicago.edu/)
 
-# Selected Teaching
+# Selected Teaching/Talks
 
+- Evaluating Vertical Equity in Assessment: A Practical Guide (software demonstration), International Association of Assessing Officers Conference 2021, Chicago, IL.
 - [PropeRty Taxes:
  Transparency, Equity, AND R](https://chicago2020.satrdays.org/), satRday 2020
 - Trainer @ [hacking4justice](https://hacking4justice.org/team)
