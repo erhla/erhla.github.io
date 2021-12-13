@@ -30,11 +30,18 @@ output:
 
 *Code is policy.* In government, the choices we make when building systems and analyzing data are policy choices. I work at the intersection of Data Science & Government telling stories which make a difference and bring positive change. I have worked at the city, county, state, and federal levels of government. 
 
-My research has been featured in the [New York](https://www.nytimes.com/2021/04/03/opinion/sunday/property-taxes-housing-assessment-inequality.html) [Times](https://www.nytimes.com/2020/06/11/opinion/coronavirus-cities-property-taxes.html), [Washington Post](https://www.washingtonpost.com/business/2021/03/12/property-tax-regressive/), [Bloomberg News](https://www.bloomberg.com/news/features/2021-03-09/racial-inequality-broken-property-tax-system-blocks-black-wealth-building), and [other publications](portfolio.html).
+My research has been featured in the [New York](https://www.nytimes.com/2021/04/03/opinion/sunday/property-taxes-housing-assessment-inequality.html) 
+[Times](https://www.nytimes.com/2020/06/11/opinion/coronavirus-cities-property-taxes.html), 
+[Washington Post](https://www.washingtonpost.com/business/2021/03/12/property-tax-regressive/), 
+[Bloomberg News](https://www.bloomberg.com/news/features/2021-03-09/racial-inequality-broken-property-tax-system-blocks-black-wealth-building), and 
+[other publications](portfolio.html).
 
-I am a [data](example_nationwide.html) [scientist](/cmfproperty), [award-winning historian](https://www.jstor.org/stable/10.2979/indimagahist.115.2.01), [policymaker](https://gitlab.com/users/erhlango/activity), and [educator](https://chicago2020.satrdays.org/). I currently work for the [State of Illinois](https://www2.illinois.gov/cms/Pages/default.aspx) and on a [civic tech tool](https://app.propertytaxproject.com/detroit) to automatically file [property tax appeals for low-income homeowners](https://illegalforeclosures.org/).
-
-Check out my [portfolio](portfolio.html)!
+I am a [data](example_nationwide.html) [scientist](/cmfproperty), 
+[award-winning historian](https://www.jstor.org/stable/10.2979/indimagahist.115.2.01), 
+[policymaker](https://gitlab.com/users/erhlango/activity), and [educator](https://github.com/erhla/pa470spring2022). 
+I currently work for the [State of Illinois](https://www2.illinois.gov/cms/Pages/default.aspx), 
+on a [civic tech tool](https://app.propertytaxproject.com) to automatically file [property tax appeals for low-income homeowners](https://illegalforeclosures.org/), 
+and as an adjunct lecturer at the [University of Illinois Chicago Master of Science in Civic Analytics Program.](https://cuppa.uic.edu/academics/pa/pa-programs/master-of-science-in-civic-analytics/)
 
 ## Education
 
