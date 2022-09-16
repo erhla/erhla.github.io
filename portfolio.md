@@ -37,6 +37,7 @@ Here are examples of how I convert data into stories in both academic and profes
 # Selected Teaching/Talks
 
 - Instructor, [PA 470 *Artificial Intelligence & Machine Learning in the Public Sector*](https://pa470spring2022.netlify.app/), Master of Science in Civic Analytics program, University at Illinois Chicago
+- [Detroit City Council Hearing on Property Taxes](http://reflect-detroit-vod.cablecast.tv/CablecastPublicSite/show/11825?channel=1), September 15th, 2022
 - 8th District (Illinois) Tax Fairness Town Hall, September 29th, 2021
 - Evaluating Vertical Equity in Assessment: A Practical Guide (software demonstration), International Association of Assessing Officers Conference 2021, Chicago, IL.
 - [PropeRty Taxes:
