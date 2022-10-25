@@ -58,6 +58,7 @@ Here are examples of how I convert data into stories in both academic and profes
 
 Various clips from my work researching property taxes.
 
+- [Detroit home assessments continue to be inaccurate](https://wdet.org/2022/09/16/detroit-home-assessments-continue-to-be-inaccurate/) *WDET*
 - [Detroit Homes Over Assessed as Residents Struggle with Property Taxes](https://www.nbcnews.com/nightly-news/video/detroit-homes-over-assessed-as-residents-struggle-with-property-taxes-advocates-say-116505157746), *NBC Nightly News*
 - [How Lower-Income Americans Get Cheated on Property Taxes](https://www.nytimes.com/2021/04/03/opinion/sunday/property-taxes-housing-assessment-inequality.html), *New York Times*
 - [Homes in poor neighborhoods are taxed at roughly twice the rate of those in rich areas, study shows](https://www.washingtonpost.com/business/2021/03/12/property-tax-regressive/), *Washington Post*
