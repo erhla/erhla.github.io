@@ -48,6 +48,7 @@ Here are examples of how I convert data into stories in both academic and profes
 
 # Public History
 
+- [Bearing Witness: The 40th Anniversary of Chicago's CWRIC Hearing](https://www.youtube.com/watch?v=ysZwkP2WyyA)
 - [Dedication of Japanese American Ban Memorial](https://broadcast.iu.edu/events/dedication-japanese-american-ban-memorial.html)
 - [Nikkei South Side: Japanese and Japanese Americans in Hyde Park and its Vicinity](https://www.lib.uchicago.edu/scrc/exhibits/upcoming-exhibits/), Summer 2021 (researcher/curator)
 - [Indiana University Issues Apology for Japanese American ban](https://president.iu.edu/speeches/statements/2020/07-22-response-to-wwii-japanese-american-student-ban.html)

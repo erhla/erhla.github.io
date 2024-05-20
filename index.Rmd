@@ -39,15 +39,7 @@ My research has been featured in the [New York](https://www.nytimes.com/2021/04/
 I am a [data](example_nationwide.html) [scientist](/cmfproperty), 
 [award-winning historian](https://www.jstor.org/stable/10.2979/indimagahist.115.2.01), 
 [policymaker](https://gitlab.com/users/erhlango/activity), and [educator](https://github.com/erhla/pa470spring2022). 
-I currently work for government as a staff data scientist. I also work on a civic tech tool to automatically file [property tax appeals for low-income homeowners](https://illegalforeclosures.org/), 
+I currently work for government as a staff data scientist. I also previously worked on a civic tech tool to automatically file [property tax appeals for low-income homeowners](https://illegalforeclosures.org/), as a data scientist at the [Center for Municipal Finance](https://munifinance.uchicago.edu/),
 and as an adjunct lecturer at the [University of Illinois Chicago Master of Science in Civic Analytics Program.](https://cuppa.uic.edu/academics/pa/pa-programs/master-of-science-in-civic-analytics/)
 
-## Education
-
-**University of Chicago** | Chicago, IL
-
-M.S. in Computational Analysis & Public Policy | September 2018 - June 2020
-
-**Indiana University** | Bloomington, IN
-
-B.S. in Mathematics | August 2014 - May 2018
+I received a Master of Science in Computational Analysis & Public Policy at the University of Chicago in 2020 and a Bachelor of Science in Mathematics from Indiana University in 2018.
