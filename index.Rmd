@@ -28,7 +28,7 @@ output:
  
 ## About Me
 
-*Code is policy.* In government, the choices we make when building systems and analyzing data are policy choices. I work at the intersection of Data Science & Government telling stories which make a difference and bring positive change. I have worked at the city, county, state, and federal levels of government. 
+*Code is policy.* In government, the choices we make when building systems and analyzing data are policy choices. I work at the intersection of Data Science & Government telling stories which make a difference and bring positive change. I have worked at the city, county, state, and federal levels of government.
 
 My research has been featured in the [New York](https://www.nytimes.com/2021/04/03/opinion/sunday/property-taxes-housing-assessment-inequality.html) 
 [Times](https://www.nytimes.com/2020/06/11/opinion/coronavirus-cities-property-taxes.html), 
