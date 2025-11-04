@@ -49,6 +49,7 @@ Here are examples of how I convert data into stories in both academic and profes
 
 Various clips from my work researching property taxes.
 
+- [Work on Amazon tax incentives fuel raises for Markham Mayor Roger Agpawa, staff](https://www.chicagotribune.com/2025/11/03/markham-mayor-roger-agpawa-salary-tax-incentives/)
 - [Study finds Kaegi has improved fairness in Cook County property assessments](https://www.chicagotribune.com/2025/09/05/kaegi-improved-fairness-cook-county-property-assessments/)
 - [Toronto property assessments are shielded from public scrutiny. This is how we discovered many of us were over-taxed](https://www.thestar.com/news/investigations/2023/07/08/toronto-property-assessments-are-shielded-from-public-scrutiny-this-is-how-we-discovered-many-of-us-were-over-taxed.html), *Toronto Star*
 - [Troubling property tax trend hitting Toronto’s cheapest homes while mansions catch a break, Star investigation finds](https://www.thestar.com/news/investigations/2023/07/08/is-your-property-tax-fair-how-a-discriminatory-trend-is-hitting-some-of-torontos-cheapest-homes-while-many-mansions-catch-a-break.html), *Toronto Star*
