@@ -17,6 +17,9 @@ This section features my work as a Data Scientist with the Center for Municipal 
 
 Here are examples of how I convert data into stories in both academic and professional settings.
 
+- [Property Tax Limitations in Practice: What the Data Reveal about Property Tax Caps in Cook County](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/1010/files/2025/11/PTELL-Report-FINAL.pdf)
+- [An Analysis of Property Taxes and Housing Costs in Cook County, Illinois](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/1/1010/files/2025/10/Previous-Work_Cost-of-Housing-Report-1.pdf)
+- [An Evaluation of Progress on Residential Assessment Fairness in Cook County](https://bpb-us-w2.wpmucdn.com/voices.uchicago.edu/dist/6/2330/files/2025/09/Kaegi-Evaluation-9_04.pdf)
 - [An analysis of the University of Chicago Police Department](/UCPD) using interviews, web scraping (Selenium, python), and data visualizations (R, ggplot/R Markdown)
 - [Data visualizations of traffic in Chicago using open data](/Chicago-Congestion) made with python (altair)
 - [A report on regressive property taxes in Detroit](https://harris.uchicago.edu/files/evalrespropertytaxasdetroit20162018.pdf)
