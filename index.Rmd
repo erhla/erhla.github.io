@@ -4,8 +4,6 @@ image: "eric_langowski.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/ericlangowski/"
-  - label: Resume
-    url: "Eric_Langowski_resume.pdf"
   - label: GitHub
     url: "https://github.com/erhla"
   - label: Portfolio
